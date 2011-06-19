@@ -1,0 +1,9 @@
+# Go Work
+
+First things first, who the *hell* decided that "Go" would be a good name for a language. Sure it's short for "Google" but it sure makes it hard when searching for things.
+
+This is mostly sample programs and scraps I've written as I dabble with Go. I never learned C, so I figure learning a true compiled language without the headaches of memory management would be a good idea.  
+
+## About the files
+
+I'm only versioning source code by default. If I find a program particularly useful I'll add the binary under `compiled/`. Development is done under OS X, 10.6.7. I'm reasonably confident in the cross platform nature of the code, so compiling it yourself under other platforms shouldn't be hard. 
